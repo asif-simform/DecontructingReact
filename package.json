@@ -1,0 +1,23 @@
+{
+  "name": "decontructingreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asif-simform/DecontructingReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asif-simform/DecontructingReact/issues"
+  },
+  "homepage": "https://github.com/asif-simform/DecontructingReact#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0",
+    "typescript": "^4.4.4"
+  }
+}
